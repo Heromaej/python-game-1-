@@ -1,0 +1,1 @@
+It's a simple game in python. It uses while loops and also functions. It picks form 3 options : r - rock; p - paper; s - scissors. Then it lets you type in your pick and evaluates who wins. It also counts points.
